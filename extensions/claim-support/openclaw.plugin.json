@@ -1,0 +1,12 @@
+{
+  "id": "claim-support",
+  "enabledByDefault": true,
+  "contracts": {
+    "tools": ["analyze_claim_support"]
+  },
+  "configSchema": {
+    "type": "object",
+    "additionalProperties": false,
+    "properties": {}
+  }
+}

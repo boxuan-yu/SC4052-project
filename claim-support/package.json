@@ -1,0 +1,9 @@
+{
+  "name": "claim-evidence-plugin",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "index.ts",
+  "openclaw": {
+    "extensions": ["./index.js"]
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": "claim-evidence-plugin",
+  "name": "Claim Evidence Plugin",
+  "version": "0.0.1",
+
+  "configSchema": {
+    "type": "object",
+    "properties": {}
+  }
+}

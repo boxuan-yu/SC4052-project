@@ -1,0 +1,858 @@
+[
+  {
+    "text": "Such investigations would help determine how auditory obstacle awareness cues interact with practical teleoperation workflows and operator control strategies.",
+    "score": 1
+  },
+  {
+    "text": "These improvements were reflected in reductions in completion time, path length, and collision duration, demonstrating that participants rapidly adapted to the teleoperation task and the auditory mapping.",
+    "score": 0.9417419012051165
+  },
+  {
+    "text": "Real-world flight introduces additional factors including communication latency, environmental disturbances, sensor noise, and operator risk perception, all of which may influence navigation behaviour.",
+    "score": 0.8844425799366595
+  },
+  {
+    "text": "However, extended studies involving a larger and more diverse participant pool, combined with longer training durations, would allow a more detailed investigation of how auditory feedback interacts with skill acqui- sition over time.",
+    "score": 0.877638826594826
+  },
+  {
+    "text": "Using this framework, human subject trials were conducted and statistical analysis was applied to evaluate navigation performance and learning effects across repeated trials.",
+    "score": 0.8704571614362686
+  },
+  {
+    "text": "Results show that audio feedback improves objective naviga- tion performance, reducing collision duration and task completion time.",
+    "score": 0.8595461636984331
+  },
+  {
+    "text": "Taken together, prior findings do not conclusively establish the effectiveness of spatial audio in UAV teleoperation, but instead highlight unresolved questions regarding (i) perceptual learn- ing, (ii) ecological validity of sensing integration, and (iii) principled sonification design.",
+    "score": 0.8393762062682515
+  },
+  {
+    "text": "Consequently, while the simplified control interface supports controlled comparison of feed- back conditions, future studies could evaluate the proposed audio feedback system using more realistic control hardware and flight dynamics.",
+    "score": 0.8375630840702505
+  },
+  {
+    "text": "Extended exposure may also influence the relative effectiveness of the audio feedback system.",
+    "score": 0.8268772165919468
+  },
+  {
+    "text": "10 Limitations While the present study provides evidence that spatialised auditory feedback can improve ob- stacle avoidance performance in UAV teleoperation, several limitations should be considered when interpreting the results.",
+    "score": 0.8238075773865834
+  },
+  {
+    "text": "Real-world UAV operations often involve moving obstacles and hazards that may emerge unpredictably outside the operator's field of view.",
+    "score": 0.8205951566240285
+  },
+  {
+    "text": "In many skill acquisition tasks, performance improvements follow a learning curve in which rapid early gains are followed by diminishing returns as participants approach a stable level of proficiency.",
+    "score": 0.8104231127791717
+  },
+  {
+    "text": "9.2.1 Geometric Constraints on Path Length In a spatially fixed environment, the minimum feasible path length between start and goal locations is constrained by the geometric configuration of obstacles.",
+    "score": 0.8059521750092542
+  },
+  {
+    "text": "These results underscore the value of evaluating both objective and subjective measures when assessing interface interventions, as improvements in behavioural execution do not neces- sarily coincide with changes in perceived task difficulty.",
+    "score": 0.7854320452432855
+  },
+  {
+    "text": "Overall, the findings demonstrate that spatialised audio cues can serve as an effective sup- plementary modality for obstacle awareness in teleoperation systems.",
+    "score": 0.7846313097931147
+  },
+  {
+    "text": "Participants operating with auditory feedback demonstrated reduced collision duration and improved task completion time, indicating that spatialised audio cues enhance obstacle awareness and support safer navigation behaviour.",
+    "score": 0.7744621356887262
+  },
+  {
+    "text": "The results provide clear answers to the research questions posed in this study.",
+    "score": 0.7689898111709788
+  },
+  {
+    "text": "Moreover, reductions in collision duration contribute directly to temporal gains, as each contact event artificially inflates overall completion time.",
+    "score": 0.7667249074157859
+  },
+  {
+    "text": "Path efficiency also improved, as reflected in a significant reduction in total distance travelled (-9.68, p = 0.048).",
+    "score": 0.7604469777073992
+  },
+  {
+    "text": "Although strong learning effects were observed across repeated trials, perfor- mance improvements may plateau as participants reach higher levels of proficiency.",
+    "score": 0.7600072843334841
+  },
+  {
+    "text": "A notable study by Philbrick and Colton evaluated both 3D audio and haptic feedback in an indoor UAV teleoperation task [127].",
+    "score": 0.7559440399374819
+  },
+  {
+    "text": "Significant learning effects were observed across trials, indicating rapid adaptation to the auditory mapping.",
+    "score": 0.7457808658330933
+  },
+  {
+    "text": "Comparing workload ratings between the with-sound and no-sound conditions allows the re- lationship between objective performance and perceived cognitive effort to be evaluated.",
+    "score": 0.7360527338049604
+  },
+  {
+    "text": "Extended exposure could therefore reveal whether auditory feedback remains beneficial once operators develop stronger internal spatial models and more automated control strategies.",
+    "score": 0.7032485261794102
+  },
+  {
+    "text": "In addition, collision duration declined (-0.47, p = 0.011), indicating that participants spent less time in contact with obstacles, either by avoiding them more successfully or by recovering more quickly following contact events.",
+    "score": 0.697327289844939
+  },
+  {
+    "text": "9.3 Audio Feedback Enhances Performance Without Workload Reduction Although the preceding analyses demonstrate consistent improvements in objective performance metrics under the auditory feedback condition, it remains unclear whether these behavioural gains correspond to changes in perceived task difficulty.",
+    "score": 0.6858718171759964
+  },
+  {
+    "text": "Taken together, these results indicate that spatialised auditory cues produced measurable improvements in task performance and safety without fundamentally changing the underlying control strategy employed by participants.",
+    "score": 0.6672086793484967
+  },
+  {
+    "text": "As participants accumulated experience, they were likely able to anticipate obstacle encounters more effectively, initiate avoidance manoeuvres earlier, and execute control inputs with greater precision.",
+    "score": 0.6652486874100275
+  },
+  {
+    "text": "These results therefore suggest that future teleoperation studies should adopt more explicit strategies for modelling and controlling learning dynamics.",
+    "score": 0.6647449940361124
+  },
+  {
+    "text": "11 Conclusion This study investigated whether spatialised auditory feedback can improve obstacle awareness during indoor UAV teleoperation under limited visual conditions.",
+    "score": 0.6593335392588326
+  },
+  {
+    "text": "Significant log-trial coefficients were present across several objective performance metrics as well as multiple NASA- TLX workload components, indicating that participants became both more efficient and less cognitively burdened as they gained experience with the task.",
+    "score": 0.6592245392588327
+  },
+  {
+    "text": "Obstacles may move, appear unpredictably, or emerge from regions outside the operator's immediate field of view.",
+    "score": 0.6530296095504464
+  },
+  {
+    "text": "Further studies involving longer training durations or repeated sessions across multiple days would therefore be valuable for examining how the effectiveness of auditory obstacle aware- ness cues evolves as operators transition from early learning stages toward more experienced teleoperation behaviour.",
+    "score": 0.6500211006046148
+  },
+  {
+    "text": "Although suboptimal nav- igation strategies may introduce detours, there exists a structural lower bound on achievable distance determined by the layout itself.",
+    "score": 0.6455451628346974
+  },
+  {
+    "text": "These observations suggest that the efficacy of spatial audio in UAV teleoperation was not definitively established, but rather left open important methodological questions.",
+    "score": 0.6452283812775059
+  },
+  {
+    "text": "However, real-world UAV teleoperation typically occurs in more complex and dynamic en- vironments.",
+    "score": 0.6450904694607825
+  },
+  {
+    "text": "If learning trends are not adequately controlled, improvements arising from increasing familiarity may be incorrectly attributed to the interface intervention being studied.",
+    "score": 0.6430633472627811
+  },
+  {
+    "text": "First, the proposed audio-based obstacle alert system could be evaluated using physical UAV platforms in order to validate its effectiveness under real flight conditions.",
+    "score": 0.6423647420721428
+  },
+  {
+    "text": "While the haptic interface demonstrated measurable improvements in collision avoidance performance, the auditory condition proved inconclusive.",
+    "score": 0.6383556279356722
+  },
+  {
+    "text": "To address this problem, a system-level experimental framework was developed consisting of a psychoacoustically grounded audio-based obstacle alert system, a simulation environment incorporating realistic obstacle de- tection latency, and a controlled experimental protocol aligned with the stated research ques- tions.",
+    "score": 0.636013682104224
+  },
+  {
+    "text": "Active time exhibited the largest learning coefficient (-18.71, p < 0.001), indicating that participants completed the navigation task substantially faster as trials progressed.",
+    "score": 0.6342314717229467
+  },
+  {
+    "text": "This distinction helps explain why temporal reductions were more pronounced than spatial reductions: auditory augmentation appears to optimise behavioural execution along a largely similar route, rather than fundamentally altering the route itself.",
+    "score": 0.634040690165755
+  },
+  {
+    "text": "Moreover, collision events often introduce discrete interruptions, including abrupt stops and corrective manoeuvres, which can disproportionately inflate overall duration.",
+    "score": 0.6332230849751161
+  },
+  {
+    "text": "By providing continuous proximity information through sound, the proposed feedback mechanism enables operators to detect obstacles earlier and recover more effectively from navigation errors, highlighting the po- tential of multisensory feedback systems to support safer and more efficient UAV teleoperation.",
+    "score": 0.6296946221363056
+  },
+  {
+    "text": "9.1.1 Performance Improvements Over Trials Strong learning effects were observed across repeated trials, with the mixed-effects models in Table 1 indicating statistically significant log-trial coefficients for active time, distance travelled, and collision duration.",
+    "score": 0.6295827523958378
+  },
+  {
+    "text": "These improvements occurred independently of any interface modification, demonstrating that repeated exposure alone can substantially influence both behavioural and subjective outcomes.",
+    "score": 0.6254987264426438
+  },
+  {
+    "text": "Fourteen participants performed navigation tasks under visual-only and visual-plus-audio conditions.",
+    "score": 0.6163830693456178
+  },
+  {
+    "text": "Rather than dismissing auditory feedback, this approach seeks to more rigorously characterise the con- ditions under which spatial sonification can effectively support indoor UAV teleoperation.",
+    "score": 0.6078971056225065
+  },
+  {
+    "text": "By using a common input device with discrete commands, the experiment aimed to isolate the perceptual effects of the obstacle awareness feedback system rather than differences in operator proficiency with particular control interfaces.",
+    "score": 0.6061181136840373
+  },
+  {
+    "text": "These learning trends highlight the importance of considering practice effects when interpreting ex- perimental results, as improvements may arise from skill acquisition over time rather than from the experimental intervention alone.",
+    "score": 0.6021889995475672
+  },
+  {
+    "text": "Future work could therefore evaluate the system in more complex flight scenarios involving moving obstacles, three- dimensional navigation, and dynamically evolving environments in order to better characterise its effectiveness in realistic teleoperation contexts.",
+    "score": 0.5998521839756509
+  },
+  {
+    "text": "Participants completed trials more efficiently, with active time reduced by an average of 1.05 s (p = 0.020) under the with- sound condition.",
+    "score": 0.5994621418993954
+  },
+  {
+    "text": "In particular, reductions in completion time were substantially larger than reductions in path length.",
+    "score": 0.5994422721589275
+  },
+  {
+    "text": "The present experiment involved a relatively small cohort and a limited number of trials, which was suffi- cient to reveal clear performance improvements and learning effects.",
+    "score": 0.5987746669682887
+  },
+  {
+    "text": "Such behaviour is consistent with the gradual forma- tion of an internal representation of both the vehicle dynamics and the spatial configuration of the environment.",
+    "score": 0.5966835447702877
+  },
+  {
+    "text": "Consequently, the performance benefits associated with auditory feedback observed during early adaptation may diminish once operators achieve a higher level of task mastery.",
+    "score": 0.5949055528318183
+  },
+  {
+    "text": "3 Methodology 3.1 Research Objective The objective of this study is to evaluate whether a psychoacoustically grounded spatial sonifi- cation system can improve obstacle avoidance performance in UAV teleoperation when imple- mented under realistic sensing constraints and evaluated with learning-sensitive experimental design.",
+    "score": 0.5933379937482004
+  },
+  {
+    "text": "However, subjective workload measures (NASA-TLX) did not differ significantly between conditions.",
+    "score": 0.5917490438859869
+  },
+  {
+    "text": "While spatialised audio may have supported earlier obstacle detection and more effective recovery, participants were still required to integrate multimodal informa- tion and maintain vehicle control.",
+    "score": 0.5909983084358164
+  },
+  {
+    "text": "Some participants reported that the sound improved awareness and confidence, whereas others described it as neutral or occasionally distracting.",
+    "score": 0.5907545268786247
+  },
+  {
+    "text": "Most notably, collision duration was significantly lower with audio feedback (-0.73, p = 0.006), indicating faster recovery from obstacle contact and improved obstacle avoidance behaviour.",
+    "score": 0.589880791428454
+  },
+  {
+    "text": "9.2.2 Behavioural Sources of Temporal Inefficiency In contrast to the structural bounds imposed on path length, completion time is influenced by a broader set of behavioural and control dynamics.",
+    "score": 0.5800296594003209
+  },
+  {
+    "text": "The system is evaluated in a distributed simulation framework combining MATLAB-based flight dynamics with a Unity-based inter- active environment.",
+    "score": 0.5714266956772097
+  },
+  {
+    "text": "These findings suggest that spatialised audio feedback can enhance teleoperation performance by redistributing perceptual processing rather than reducing cognitive load.",
+    "score": 0.5694574432196768
+  },
+  {
+    "text": "Prior work demonstrated the feasibility of spatial audio cueing but reported inconclusive findings, partly due to limited modelling of perceptual adaptation and ecological validity.",
+    "score": 0.5684551867313782
+  },
+  {
+    "text": "In such scenarios, continuous auditory proximity cues may provide stronger assistive benefits by alerting operators to obstacles not immediately visible.",
+    "score": 0.5661232408999302
+  },
+  {
+    "text": "Regarding RQ2, strong learning effects were observed across repeated trials.",
+    "score": 0.5649867238925679
+  },
+  {
+    "text": "While participant counts of this scale are common in exploratory teleoperation and human-computer interaction studies, the limited sample size may reduce the statistical power of the analysis and limit the generalisability of the findings to broader operator populations.",
+    "score": 0.5636595555875459
+  },
+  {
+    "text": "9.3.1 Objective Performance Improvements Linear mixed-effects modelling revealed significant improvements in several objective perfor- mance metrics when auditory feedback was enabled (Table 1).",
+    "score": 0.5613745215728212
+  },
+  {
+    "text": "Collisions in particular may have compounded frustration and uncertainty, as recovery manoeuvres required additional corrective actions and interrupted task flow.",
+    "score": 0.5577863192530744
+  },
+  {
+    "text": "To examine this question, subjective workload was assessed using the NASA Task Load Index (NASA-TLX) questionnaire [129].",
+    "score": 0.5567238022457123
+  },
+  {
+    "text": "The present work addresses these gaps by grounding auditory cue mappings in established psychoa- coustic principles, integrating realistic obstacle detection latency into the control pipeline, and evaluating performance under conditions that account for user adaptation over time.",
+    "score": 0.5500258304610702
+  },
+  {
+    "text": "9.1.3 Importance of Accounting for Learning Effects The strong learning effects observed in Table 1 highlight the importance of explicitly accounting for practice-related improvements when evaluating teleoperation interfaces.",
+    "score": 0.5479250569654095
+  },
+  {
+    "text": "This suggests that the auditory cues enhanced navigation efficiency without substantially reducing perceived cognitive demand.",
+    "score": 0.547760145148686
+  },
+  {
+    "text": "As experience accumulated, these sources of uncertainty likely diminished, resulting in lower reported mental demand and frustration.",
+    "score": 0.5443377243861309
+  },
+  {
+    "text": "Informal remarks during debriefing further illustrate this divergence between measured per- formance and perceived benefit.",
+    "score": 0.5435771191954922
+  },
+  {
+    "text": "Consequently, the controlled navigation task used in this study may underestimate the potential benefits of auditory obstacle awareness cues in operational settings.",
+    "score": 0.5389783998683831
+  },
+  {
+    "text": "Rather than simplifying the task, spatialised audio cues appear to refine how operators interact with environmental constraints, supporting smoother obstacle avoidance and recovery.",
+    "score": 0.5386464880516596
+  },
+  {
+    "text": "With respect to RQ1, the findings indicate that the proposed audio-based obstacle alert system improves teleoperation performance relative to visual-only control.",
+    "score": 0.5383734459754042
+  },
+  {
+    "text": "These results indicate that participants experienced the task as progressively less demanding as they became more familiar with the control interface and the environment.",
+    "score": 0.5374639710442972
+  },
+  {
+    "text": "In addition to objective performance improvements, subjective workload also declined across trials, suggesting that in- creasing familiarity reduced uncertainty and cognitive strain associated with the task.",
+    "score": 0.5360916724797434
+  },
+  {
+    "text": "9.1.2 Reduction in Perceived Workload In addition to improvements in objective performance, perceived workload also declined across trials.",
+    "score": 0.5311690413359108
+  },
+  {
+    "text": "This thesis investigates the effectiveness of audio feedback in three-dimensional (3D) interaction, specifically focusing on the demanding problem of indoor UAV teleoperation.",
+    "score": 0.5310739110763789
+  },
+  {
+    "text": "The results also support H2, indicating that performance improves across repeated trials as participants adapt to the teleoperation system.",
+    "score": 0.5268639733064616
+  },
+  {
+    "text": "In this view, navigation strategies evolved alongside skill acquisition, producing improved performance while maintaining comparable levels of behavioural complexity and effort.",
+    "score": 0.5265353220088018
+  },
+  {
+    "text": "By controlling these factors, the simulation environment allowed direct comparison between feedback conditions while minimising variability arising from external disturbances.",
+    "score": 0.5260304983753549
+  },
+  {
+    "text": "Interestingly, these subjective reductions in workload occurred without a corresponding increase in behavioural entropy, which did not exhibit a statistically significant learning effect in Table 1.",
+    "score": 0.5224162960556081
+  },
+  {
+    "text": "This suggests that while auditory feedback improved task efficiency and safety-related outcomes, it did not substantially alter the variability or exploratory characteristics of participants' control trajectories.",
+    "score": 0.5197145686669684
+  },
+  {
+    "text": "9.1 Learning Effects and Skill Acquisition Performance improved progressively across trials, indicating clear learning effects as participants became more familiar with both the control interface and the spatial layout of the environment.",
+    "score": 0.5111236049438572
+  },
+  {
+    "text": "Although improvements were observed in both temporal and spatial measures, the magni- tude of these gains differed across metrics.",
+    "score": 0.5105999115699421
+  },
+  {
+    "text": "Distance travelled also decreased significantly (-10.70, p = 0.017), suggesting that trajectories became progressively more efficient as participants gained familiarity with the obstacle layout.",
+    "score": 0.5105949115699421
+  },
+  {
+    "text": "One interpretation is that auditory cues redistributed, rather than reduced, cognitive pro- cessing requirements.",
+    "score": 0.5082020959980258
+  },
+  {
+    "text": "In a fixed environment, spatial efficiency is bounded by geometric limitations, whereas temporal efficiency incorporates behavioural factors such as hesitation, collision recov- ery, and confidence-driven speed modulation.",
+    "score": 0.5081670959980258
+  },
+  {
+    "text": "Testing the system on operational UAV platforms would provide further insight into how audi- tory feedback performs in practical deployment scenarios.",
+    "score": 0.5052795870521943
+  },
+  {
+    "text": "These limitations primarily relate to the controlled experimental setting, the simplified teleoperation interface, the duration of participant training, the scope of the navigation task, and the size of the participant cohort.",
+    "score": 0.5032804648541933
+  },
+  {
+    "text": "Third, larger-scale and longer-term studies could be conducted to better understand how the effectiveness of auditory feedback evolves across different operator demographics.",
+    "score": 0.502240947846831
+  },
+  {
+    "text": "These characteristics influence how operators regulate motion, perform corrective manoeuvres, and recover from disturbances.",
+    "score": 0.5002929559083619
+  },
+  {
+    "text": "This asymme- try suggests that completion time and distance travelled are governed by different optimisation constraints.",
+    "score": 0.49582701813844454
+  },
+  {
+    "text": "This design isolates obstacle avoidance be- haviour in the horizontal plane while still allowing the proposed psychoacoustically grounded sonification system to be evaluated under more realistic sensing and learning conditions.",
+    "score": 0.4946705011310822
+  },
+  {
+    "text": "The additional auditory channel may therefore have altered how information was processed without substantially lowering overall subjective effort.",
+    "score": 0.49010678180397316
+  },
+  {
+    "text": "10.2 Simplified Control Interface The teleoperation interface employed in the experiment utilised keyboard-based inputs mapped to translational motion within the horizontal plane and yaw rotation.",
+    "score": 0.48794887804878057
+  },
+  {
+    "text": "These patterns may also reflect the gradual proceduralisation of control actions that com- monly occurs during skill acquisition, where repeated exposure allows operators to execute movements more fluidly with reduced conscious effort.",
+    "score": 0.48787387804878035
+  },
+  {
+    "text": "Such changes in strategy could offset reductions in behavioural variability that might otherwise accompany increased familiarity, resulting in entropy values that remain broadly stable across trials.",
+    "score": 0.4870492728581417
+  },
+  {
+    "text": "Although the magnitude of the audio feedback coefficient for collision duration is numerically smaller than that for active time, collision duration constitutes a direct component of total com- pletion time.",
+    "score": 0.4851521506601407
+  },
+  {
+    "text": "10.1 Simulation-Based Evaluation The experimental evaluation was conducted within a simulated UAV environment.",
+    "score": 0.4827183350882244
+  },
+  {
+    "text": "This geometric ceiling effect likely explains why the magnitude of improvement in distance travelled was smaller than the observed reductions in completion time.",
+    "score": 0.4826733350882244
+  },
+  {
+    "text": "The results confirm H1, showing that auditory obstacle alerts improve navigation performance compared to visual-only operation.",
+    "score": 0.4824422930119691
+  },
+  {
+    "text": "Conse- quently, the study is frequently cited as evidence supporting the effectiveness of haptic feedback for UAV teleoperation, whereas the effectiveness of auditory cues remains less clearly estab- lished.",
+    "score": 0.48041743133303166
+  },
+  {
+    "text": "Although these impressions were not systematically recorded and cannot be treated as formal evidence, they nonetheless suggest that behavioural gains may occur independently of conscious perception of assistance.",
+    "score": 0.476414405379838
+  },
+  {
+    "text": "These temporal characteristics can influence both control behaviour and the interpretability of auditory feedback.",
+    "score": 0.4757787120059229
+  },
+  {
+    "text": "Rather than simplifying the task, the auditory feedback chan- nel may have redistributed how operators processed spatial information while maintaining a comparable overall level of mental effort.",
+    "score": 0.47343876617447456
+  },
+  {
+    "text": "However, real UAV teleoperation typically relies on joystick or remote controller interfaces that provide continu- ous control inputs and interact with stabilisation systems and vehicle dynamics.",
+    "score": 0.4696226520380044
+  },
+  {
+    "text": "Prior studies have explored spatial audio cues but reported inconclusive results, partly due to limited modelling of perceptual learning and sensing latency.",
+    "score": 0.46888695866408925
+  },
+  {
+    "text": "The tasks were also deliberately designed to remain relatively simple in order to reduce participant fatigue and to limit the learning burden associated with operating a novel simulation interface.",
+    "score": 0.4679404416567269
+  },
+  {
+    "text": "While the results revealed clear learning effects across trials, the duration of exposure to the task and the auditory feedback system was necessarily constrained to maintain a manageable experimental session length and avoid participant fatigue.",
+    "score": 0.46410332752025674
+  },
+  {
+    "text": "Performance improved progressively as participants became more familiar with the control interface and the spatial structure of the environment.",
+    "score": 0.4629846802533625
+  },
+  {
+    "text": "10.5 Limited Sample Size The study involved a total of 14 participants, which represents a relatively small sample size for a human-subject experiment.",
+    "score": 0.460010301567063
+  },
+  {
+    "text": "While the simulation environment enabled controlled comparison between feedback conditions, real-world teleoperation introduces addi- tional factors such as sensor noise, communication latency, and environmental disturbances.",
+    "score": 0.45839009118578533
+  },
+  {
+    "text": "Investigating the feedback system in dynamic environments and full three- dimensional navigation tasks could determine its broader applicability in realistic teleoperation contexts.",
+    "score": 0.4578282675523383
+  },
+  {
+    "text": "Third, the auditory cues were implemented via direct spatialisation of obstacle sources.",
+    "score": 0.457107574178423
+  },
+  {
+    "text": "Such consistency is particularly important in studies of perceptual feed- back systems, where uncontrolled environmental variation could obscure the behavioural effects of the interface intervention.",
+    "score": 0.4531075482252293
+  },
+  {
+    "text": "Distinguishing between these two sources of improvement therefore requires careful experimental design and appropriate statistical modelling.",
+    "score": 0.45139833784395184
+  },
+  {
+    "text": "As shown in Table 1, significant negative log-trial coefficients were observed for several NASA-TLX components, including mental demand (-3.76, p < 0.001), effort (-2.12, p = 0.004), frustration (-1.92, p = 0.001), and total workload (-13.89, p < 0.001).",
+    "score": 0.45137733784395184
+  },
+  {
+    "text": "One possible explanation is that the early trials were characterised by unfamiliarity with the navigation task.",
+    "score": 0.4508456444700366
+  },
+  {
+    "text": "In the context of assistive feedback systems, this risk is particularly salient because practice-related gains may occur simultaneously with the effects of the feedback modality itself.",
+    "score": 0.4456391015094806
+  },
+  {
+    "text": "Consequently, while the simulator provides a controlled platform for isolating the effects of auditory obstacle feedback, further validation using physical UAV platforms would be necessary to assess the extent to which these findings generalise to real-world flight conditions.",
+    "score": 0.44517240813556536
+  },
+  {
+    "text": "This ap- proach was intentionally adopted to ensure consistent obstacle layouts, sensing behaviour, and environmental conditions across trials.",
+    "score": 0.4382986547937318
+  },
+  {
+    "text": "However, simulation-based evaluation may not fully capture certain operational characteris- tics present in real UAV teleoperation.",
+    "score": 0.43723226804590143
+  },
+  {
+    "text": "Audio feedback sig- nificantly decreased time spent in contact with obstacles, and because collision events directly interrupt forward motion, each reduction contributes cumulatively to overall completion time.",
+    "score": 0.4322165066425369
+  },
+  {
+    "text": "Designers of teleoperation interfaces may therefore consider auditory feedback as a performance-enhancing layer that complements visual information rather than replacing it.",
+    "score": 0.43171081326862176
+  },
+  {
+    "text": "9.3.3 Implications for Feedback Design The present findings suggest that auditory augmentation can improve behavioural efficiency and safety in teleoperation without necessarily reducing perceived workload.",
+    "score": 0.43088420807798294
+  },
+  {
+    "text": "Miti- gating such events removes a concentrated source of inefficiency, thereby amplifying temporal gains beyond what might be inferred from coefficient magnitude alone.",
+    "score": 0.4305752962612594
+  },
+  {
+    "text": "To address these limitations, this work develops an audio-based obsta- cle alert system that encodes obstacle proximity and direction using temporal frequency, stereo panning, and frequency-modulated chirps.",
+    "score": 0.4277165688726196
+  },
+  {
+    "text": "This divergence indicates that enhanced behavioural efficiency under auditory feedback was not accompanied by measur- able reductions in perceived cognitive demand.",
+    "score": 0.4229380679883191
+  },
+  {
+    "text": "Authors noted several experimental limitations, and participants indicated that additional experience with the auditory interface might have improved performance.",
+    "score": 0.41432210426520794
+  },
+  {
+    "text": "The distinction between these two forms of optimisation, and the constraints that shape them, is examined in greater detail in the following subsection 9.2.",
+    "score": 0.4121782005100153
+  },
+  {
+    "text": "Con- sequently, immediate performance metrics may underestimate the potential utility of auditory displays.",
+    "score": 0.40692365754945925
+  },
+  {
+    "text": "For reference, the prior study by [127] reported results from 17 participants, which is comparable in scale to the present experiment.",
+    "score": 0.40489775379426646
+  },
+  {
+    "text": "In opera- tional UAV systems, obstacle information is subject to sensor delay, filtering, and uncertainty.",
+    "score": 0.40310054341298895
+  },
+  {
+    "text": "One interpretation is that participants maintained a similar level of effort in controlling the vehicle even as the task became more familiar, resulting in stable behavioural variability despite declining subjective workload.",
+    "score": 0.3995622108337105
+  },
+  {
+    "text": "12 Future Work Several avenues for future work emerge from the findings of this study.",
+    "score": 0.3980500004524329
+  },
+  {
+    "text": "Consistent with these findings, both hypotheses formulated for the study were supported.",
+    "score": 0.3952451428042612
+  },
+  {
+    "text": "Although the mixed-effects modelling approach used in the analysis partially accounts for participant-specific variability, the relatively small participant pool means that the observed results should be interpreted with appropriate caution.",
+    "score": 0.39502949150660144
+  },
+  {
+    "text": "While spatial geometry constrains the minimum achievable distance, temporal performance reflects how efficiently participants traverse that path.",
+    "score": 0.3938339744992392
+  },
+  {
+    "text": "Participants navigated a simulated indoor environment while performance and workload were measured across all three spatial dimensions.",
+    "score": 0.39210776411796167
+  },
+  {
+    "text": "Participants initially needed to devote substantial attention to understanding the spatial configuration of obstacles, the responsiveness of the control interface, and the con- sequences of collision events.",
+    "score": 0.39050855373668414
+  },
+  {
+    "text": "As operators gained confidence in the control dynamics, they may have attempted sharper turns, tighter obstacle clearances, or higher movement speeds.",
+    "score": 0.38887034335540666
+  },
+  {
+    "text": "An evaluation framework that omits sensing latency may therefore overes- timate the stability and responsiveness of the display.",
+    "score": 0.38171480845638145
+  },
+  {
+    "text": "Importantly, the absence of measurable workload reductions indicates that assistive feed- back systems should not be evaluated solely in terms of subjective effort.",
+    "score": 0.3815298966396578
+  },
+  {
+    "text": "As participants become more familiar with the en- vironment, reductions in path length primarily reflect the elimination of inefficient deviations rather than fundamental reconfiguration of the route.",
+    "score": 0.37902208106774155
+  },
+  {
+    "text": "Sonification mappings often require adaptation, particularly when spatialised cues must be interpreted in dynamic con- trol tasks.",
+    "score": 0.3784183876938264
+  },
+  {
+    "text": "This discrepancy suggests that the mecha- nisms governing temporal efficiency and spatial efficiency may differ.",
+    "score": 0.376805177312549
+  },
+  {
+    "text": "Traditional ground control systems rely heavily on visual displays, creating perceptual bot- tlenecks in cluttered environments.",
+    "score": 0.3728879329165467
+  },
+  {
+    "text": "Understanding this distinction is essential for interpreting how auditory feedback alters navigation behaviour.",
+    "score": 0.37108094097807764
+  },
+  {
+    "text": "Such reductions are consistent with the early stages of skill acquisition, where initial uncertainty regarding vehicle behaviour, obstacle layout, and control sensitivity contributes to elevated cognitive demand and stress.",
+    "score": 0.36829621358943776
+  },
+  {
+    "text": "Second, obstacle detection in the prior study was derived directly from simulated environ- ment geometry, without modelling realistic sensing pipelines or perception latency.",
+    "score": 0.3677275202155227
+  },
+  {
+    "text": "Repeated exposure to the navigation task likely enabled participants to develop a more accu- rate internal representation of obstacle locations and vehicle dynamics, allowing them to execute movements more efficiently and recover from errors more effectively.",
+    "score": 0.3614104602476042
+  },
+  {
+    "text": "Performance during vertical (up-down) navigation did not differ significantly across either haptic- or audio-assisted conditions.",
+    "score": 0.36085076687368894
+  },
+  {
+    "text": "Importantly, while auditory feedback improved objective behavioural performance, no sig- nificant differences were observed in NASA-TLX workload scores between conditions.",
+    "score": 0.3582720394850492
+  },
+  {
+    "text": "9.2.3 Collision Reduction as a Temporal Amplifier Beyond general improvements in motion efficiency, reductions in collision duration appear to play a disproportionately influential role in the observed temporal gains.",
+    "score": 0.35653582910377174
+  },
+  {
+    "text": "Notably, sev- eral participants who did not feel that the sound was helpful nonetheless demonstrated objective performance improvements.",
+    "score": 0.35191210977666276
+  },
+  {
+    "text": "Once participants approximate an efficient trajectory around obstacles, further reductions in distance are marginal.",
+    "score": 0.3505208112121087
+  },
+  {
+    "text": "It is therefore possible that the learning effects observed in the present study may eventually plateau with sufficient practice, resulting in smaller incremental improvements over time.",
+    "score": 0.35029989939538525
+  },
+  {
+    "text": "Continuous ob- stacle proximity cues may reduce uncertainty, enabling more confident motion and smoother velocity profiles.",
+    "score": 0.349128382388023
+  },
+  {
+    "text": "Unlike path length, which is bounded by environmental structure, completion time therefore possesses greater elas- ticity and offers more opportunity for improvement through enhanced situational awareness.",
+    "score": 0.3417269356722742
+  },
+  {
+    "text": "As participants were unfamiliar with the simulator and control scheme, constraining the task complexity helped ensure that performance differences were not dominated by difficulties in mastering the basic interaction mechanics or task requirements.",
+    "score": 0.34154815411508255
+  },
+  {
+    "text": "However, this abstraction differs from the control mechanisms used in most real-world UAV teleoperation systems.",
+    "score": 0.339882943733805
+  },
+  {
+    "text": "While intuitive, direct binaural spatialisation is known to be susceptible to front-back confu- sion and elevation ambiguities inherent to head-related transfer function (HRTF) rendering, particularly for inexperienced listeners (See Section 2.1.1).",
+    "score": 0.3392292503598898
+  },
+  {
+    "text": "Performance improve- ments may arise from enhanced environmental awareness and more effective control execution, even when overall cognitive demand remains stable.",
+    "score": 0.33657552297125
+  },
+  {
+    "text": "9.2 Temporal versus Spatial Optimisation While audio feedback improved both temporal and spatial performance metrics, the magnitude of temporal improvement was notably greater than the reduction in path length.",
+    "score": 0.3359526993378028
+  },
+  {
+    "text": "10.3 Limited Training Duration Participants completed a relatively limited number of trials under each experimental condition.",
+    "score": 0.3354880059638877
+  },
+  {
+    "text": "Factors such as hesitation, conservative speed modulation, visual scanning pauses, and post-collision recovery introduce variability in completion time that is not directly tied to route geometry.",
+    "score": 0.3313169800106939
+  },
+  {
+    "text": "When performance improvements across trials are substantial, random ordering does not eliminate the possibility that later trials will systematically benefit from increased operator familiarity.",
+    "score": 0.3296557696294164
+  },
+  {
+    "text": "Under such conditions, operators might rely less on external feedback cues and instead depend more on predictive control strategies.",
+    "score": 0.32838047106486246
+  },
+  {
+    "text": "Such effects pose an important methodological challenge for experimental evaluation.",
+    "score": 0.32335683992103004
+  },
+  {
+    "text": "First, perceptual learning effects were not systematically modelled.",
+    "score": 0.3208350243491136
+  },
+  {
+    "text": "An alternative interpretation is that improvements in piloting skill enabled participants to adopt more assertive or risk-tolerant navigation strategies.",
+    "score": 0.3200584191584749
+  },
+  {
+    "text": "Finally, future research could evaluate the system in more complex and dynamic navigation environments.",
+    "score": 0.3133346658166413
+  },
+  {
+    "text": "Audio feedback likely attenuates several of these behavioural inefficiencies.",
+    "score": 0.31211014880927906
+  },
+  {
+    "text": "Second, future studies could investigate the interaction between auditory feedback and more realistic UAV control interfaces.",
+    "score": 0.30921263986344766
+  },
+  {
+    "text": "Approaches such as including trial progression terms within mixed-effects models and conducting sufficient numbers of repetitions per condition may provide more robust control over practice effects.",
+    "score": 0.30744742948217
+  },
+  {
+    "text": "As shown below, the results reveal a notable dissociation between behavioural performance and subjective workload.",
+    "score": 0.2819756685723687
+  },
+  {
+    "text": "Although these constraints were necessary to isolate the effects of the proposed feedback system and maintain a manageable experimental design, they may influence how the findings generalise to real-world teleoperation scenarios.",
+    "score": 0.2806433700078147
+  },
+  {
+    "text": "2.3 Audio Feedback for UAV Collision Avoidance Early investigations into auditory feedback for UAV teleoperation explored whether spatial au- dio could enhance operator awareness during manual navigation.",
+    "score": 0.27665212561181257
+  },
+  {
+    "text": "Operational platforms typically employ joystick or remote controller interfaces that provide continuous control inputs and interact with flight stabilisation systems and vehicle dynamics.",
+    "score": 0.2754328270472586
+  },
+  {
+    "text": "As a result, the observed improve- ments primarily reflect early-stage adaptation to both the control interface and the obstacle awareness cues.",
+    "score": 0.27461722185661996
+  },
+  {
+    "text": "Such variability introduces participant-level heterogeneity that may not be fully captured with a small cohort.",
+    "score": 0.2609438454324848
+  },
+  {
+    "text": "9.3.2 Dissociation Between Objective and Subjective Measures Despite consistent improvements in objective performance metrics, no significant differences were observed in NASA-TLX workload scores between conditions.",
+    "score": 0.25566030247192867
+  },
+  {
+    "text": "The log-trial specification implies a characteristic learning curve in which the largest im- provements occur early in the experiment, followed by diminishing marginal gains as participants approach a stable level of performance.",
+    "score": 0.2550546090980135
+  },
+  {
+    "text": "In contrast, behavioural entropy did not differ significantly between conditions (p = 0.370).",
+    "score": 0.24607395200098722
+  },
+  {
+    "text": "In the study by [127], learning effects were mitigated primarily through randomisation of trial order after a short practice period.",
+    "score": 0.2419229260477934
+  },
+  {
+    "text": "As a result, navigation behaviour ob- served under keyboard-based control may not fully reflect the control strategies employed when using physical UAV controllers.",
+    "score": 0.23459247933204458
+  },
+  {
+    "text": "The absence of longitudinal exposure or structured familiarisation protocols leaves open the possibility that performance improvements may emerge after sufficient training.",
+    "score": 0.23310618076749062
+  },
+  {
+    "text": "In addition, evaluations conducted across all three spatial dimensions found no statistically signif- icant performance differences for vertical (up-down) navigation across either haptic- or audio- assisted conditions, while improvements were more evident in horizontal obstacle avoidance tasks.",
+    "score": 0.23229857557685193
+  },
+  {
+    "text": "Under these conditions, auditory feedback may provide a stronger assistive effect by delivering continuous proximity cues that alert operators to obstacles even when they are not directly visible.",
+    "score": 0.2318577519434048
+  },
+  {
+    "text": "Longer training periods could potentially produce different behavioural dynamics.",
+    "score": 0.22554982223501835
+  },
+  {
+    "text": "Their work implemented direct spatialisation of obstacle locations, whereby vir- tual sound sources were positioned in 3D space relative to the UAV.",
+    "score": 0.21989436745773872
+  },
+  {
+    "text": "This simplification was intentionally introduced to isolate obstacle avoidance behaviour and to evaluate the perceptual effects of the auditory feedback system under con- trolled conditions.",
+    "score": 0.21486495475671452
+  },
+  {
+    "text": "This simplified control scheme was deliberately chosen to reduce variability arising from participants' familiarity with specialised UAV control hardware.",
+    "score": 0.21455704293999106
+  },
+  {
+    "text": "10.4 Restricted Navigation Task The experimental task was limited to horizontal-plane navigation within a static indoor obsta- cle environment.",
+    "score": 0.20799520141488093
+  },
+  {
+    "text": "The following subsections discuss these considerations.",
+    "score": 0.20331948208777198
+  },
+  {
+    "text": "Reductions in obstacle contact therefore necessarily contribute to reductions in active time.",
+    "score": 0.19724133393657708
+  },
+  {
+    "text": "Consequently, the potential for spatial optimisation is inherently limited.",
+    "score": 0.19011179903755196
+  },
+  {
+    "text": "Evaluating the feedback system using such interfaces may reveal additional insights into how operators integrate auditory cues with more natural flight control mechanisms.",
+    "score": 0.1652597315016658
+  },
+  {
+    "text": "This suggests that although participants perceived the task as less demanding over time, their movement variability did not increase substantially.",
+    "score": 0.15771528478591698
+  },
+  {
+    "text": "Consequently, the present study therefore seeks to more rigorously assess auditory aug- mentation by explicitly addressing these previously unmodelled factors with a focus on lateral navigation within a three-dimensional environment.",
+    "score": 0.1560440744046395
+  },
+  {
+    "text": "The present study employed a simplified keyboard-based con- trol scheme to isolate the perceptual effects of obstacle awareness feedback.",
+    "score": 0.15209604845144567
+  },
+  {
+    "text": "In addition, participants in this study represented a wide range of prior experience with UAV operation and simulation interfaces.",
+    "score": 0.12768080454900668
+  },
+  {
+    "text": "As such, it remains unclear whether the inconclusive results were attributable to limitations of spatial audio per se, or to specific implementation choices.",
+    "score": 0.12453129560317522
+  },
+  {
+    "text": "The cue mapping was not explicitly derived from psychoacoustic design principles nor evaluated against alternative sonification strategies.",
+    "score": 0.10696767478303791
+  },
+  {
+    "text": "In such situations, operators must maintain awareness of hazards that may not be continuously visible through the onboard camera feed.",
+    "score": 0.10106252663184308
+  },
+  {
+    "text": "As participants gain greater familiarity with the environment and the vehicle dynamics, they may develop increasingly accurate internal models of spatial relationships and obstacle locations even with limited visual information.",
+    "score": 0.09693950067864932
+  },
+  {
+    "text": "Properly accounting for these dynamics is essential to ensure that observed performance differences can be confidently attributed to the interface intervention rather than to the natural progression of operator skill.",
+    "score": 0.09686150067864932
+  },
+  {
+    "text": "While randomisation can reduce systematic bias in the presentation of experimental conditions, the magnitude of the learning effects observed in the present study suggests that this approach alone may be insufficient.",
+    "score": 0.000078
+  }
+]

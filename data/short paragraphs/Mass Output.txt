@@ -1,0 +1,458 @@
+Here are the supporting pieces of evidence from the document regarding the statements you requested:
+
+True Statements
+Bromeliads are a family of monocot flowering plants comprising about 80 genera and 3700 known species.
+
+Top Supporting Evidence:
+
+1.000: "The Bromeliaceae (the bromeliads) are a family of monocot flowering plants of about 80 genera and 3700 known species..."
+0.982: "The flowers have nectaries."
+0.756: "Many terrestrial and epiphytic bromeliads have their leaves in the form of vase-shaped rosettes which accumulate water."
+
+Many bromeliads, known as "tank bromeliads," can store water in a structure formed by their tightly overlapping leaf bases.
+
+Top Supporting Evidence:
+
+1.000: "Many bromeliads, colloquially called 'tank bromeliads', are able to store water in a structure (a 'tank') formed by their tightly overlapping leaf bases."
+0.849: "These rosettes can hold as much as 10 L (2.2 imp gal; 2.6 US gal) of water..."
+0.844: "Spanish moss, Tillandsia usneoides, are aerophytes, which have very reduced root systems."
+
+The largest bromeliad is Puya raimondii, which can reach heights of 3–4 meters.
+
+Top Supporting Evidence:
+
+1.000: "The largest bromeliad is Puya raimondii, which reaches 3–4 metres (10–13 ft) tall in vegetative growth..."
+0.951: "The smallest are some Tillandsia species."
+0.712: "This family includes both epiphytes, such as Spanish moss…"
+
+Bromeliads can be either terrestrial or epiphytic, with some species able to absorb water directly from the air.
+
+Top Supporting Evidence:
+
+1.000: "They may be terrestrial or epiphytic, rarely climbing (e.g., Pitcairnia species)."
+0.682: "Some species of Tillandsia are aerophytes, which have very reduced root systems and absorb water directly from the air."
+0.661: "The family includes epiphytes, such as Spanish moss (Tillandsia usneoides), and terrestrial species."
+
+Bromeliads have flowers that are aggregated into inflorescences, which often have brightly colored bracts.
+
+Top Supporting Evidence:
+
+1.000: "Bromeliad flowers are aggregated into inflorescences of various forms."
+0.715: "The flowers have bracts, often brightly colored, and distinct calyces of three sepals and corollas of three petals."
+0.598: "They are pollinated by insects, birds (often hummingbirds) or bats."
+
+1. Claim: Brassica is a genus of plants in the cabbage and mustard family (Brassicaceae).
+Top Supporting Evidence:
+
+1.000: "Brassica is a genus of plants in the cabbage and mustard family (Brassicaceae)."
+0.680: "The members of the genus are informally known as cruciferous vegetables, cabbages, mustard plants, or simply brassicas."
+0.870: "The genus is native to Western Europe, the Mediterranean and temperate regions of Asia."
+
+2. Claim: This genus includes well-known vegetables such as cabbage, broccoli, cauliflower, kale, and Brussels sprouts.
+Top Supporting Evidence:
+
+1.000: "Brassica species and varieties commonly used for food include bok choy, broccoli, Brussels sprouts, cauliflower, cabbage, collard greens..."
+0.776: "Over 30 wild species and hybrids are in cultivation, plus numerous cultivars and hybrids of cultivated origin."
+0.680: "The genus Brassica is known for its important agricultural and horticultural crops."
+
+3. Claim: There are about 37 species classified under the Brassica genus.
+Top Supporting Evidence:
+
+1.000: "Over 30 wild species and hybrids are in cultivation, plus numerous cultivars and hybrids of cultivated origin."
+0.790: "The genus Brassica is known for its important agricultural and horticultural crops..."
+0.611: "The members of the genus are informally known as cruciferous vegetables..."
+
+4. Claim: These vegetables are rich in essential nutrients, vitamins, minerals, and antioxidants, making them beneficial for health.
+Top Supporting Evidence:
+
+1.000: "Brassica plants have been the subject of much scientific interest for their agricultural importance."
+0.945: "Brassica species and varieties commonly used for food include bok choy, broccoli, Brussels sprouts..."
+0.400: "The members of the genus are informally known as cruciferous vegetables..."
+
+5. Claim: Many brassicas have been cultivated for thousands of years and have played a significant role in ancient diets and agriculture.
+Top Supporting Evidence:
+
+1.000: "Brassica plants have been the subject of much scientific interest for their agricultural importance."
+0.870: "Over 30 wild species and hybrids are in cultivation, plus numerous cultivars."
+0.620: "Classic examples include crops such as cabbage and broccoli..."
+
+6. Claim: Members of this genus are often referred to as cruciferous vegetables due to their four-petaled flower structure.
+Top Supporting Evidence:
+
+1.000: "The members of the genus are informally known as cruciferous vegetables..."
+0.895: "The genus Brassica includes a number of weeds, both of wild taxa and escapees from cultivation."
+0.680: "Most are seasonal plants (annuals or biennials), but some are small shrubs."
+
+7. Claim: Brassicas can thrive in a wide range of climates, making them widely cultivated around the world.
+Top Supporting Evidence:
+
+1.000: "Brassica is a genus of plants in the cabbage and mustard family (Brassicaceae)."
+0.849: "Many wild species grow as weeds, especially in North America, South America, and Australia."
+0.312: "The genus is native to Western Europe, the Mediterranean and temperate regions of Asia."
+
+8. Claim: They hold economic importance as staple crops in many parts of the world, contributing to food security.
+Top Supporting Evidence:
+
+1.000: "Brassica species and varieties commonly used for food include bok choy, broccoli, Brussels sprouts..."
+0.903: "Brassica is a genus of plants in the cabbage and mustard family..."
+0.870: "The genus Brassica is known for its important agricultural and horticultural crops
+
+9. Claim: Some brassica species can be considered invasive in environments where they are not native.
+Top Supporting Evidence:
+
+1.000: "Many wild species grow as weeds, especially in North America, South America, and Australia."
+0.560: "Brassica is a genus of plants in the cabbage and mustard family..."
+0.308: "Over 30 wild species and hybrids are in cultivation..."
+
+10. Claim: Brassicas can be prepared in numerous ways, including raw in salads, steamed, boiled, sautéed, or roasted.
+Top Supporting Evidence:
+
+1.000: "Brassica species and varieties commonly used for food include bok choy, broccoli, Brussels sprouts..."
+0.776: "Over 30 wild species and hybrids are in cultivation, plus numerous cultivars..."
+0.720: "The genus Brassica is known for its important agricultural and horticultural crops."
+
+Let me know if you need more information or specific insights on any of these claims!
+
+1. Claim: Saturn is the sixth planet from the Sun.
+Top Supporting Evidence:
+1.000: "Saturn is the sixth planet from the Sun and the second largest in the Solar System, after Jupiter."
+0.727: "Even though Saturn is almost as big as Jupiter, Saturn has less than a third of its mass."
+0.544: "Titan, Saturn's largest moon and the second largest in the Solar System, is larger (but less massive) than the planet Mercury..."
+2. Claim: Saturn is classified as a gas giant, primarily composed of hydrogen and helium.
+Top Supporting Evidence:
+1.000: "It is a gas giant, with an average radius of about 9 times that of Earth."
+0.847: "Saturn's interior is thought to be composed of a rocky core, surrounded by a deep layer of metallic hydrogen, an intermediate layer of liquid hydrogen and liquid helium, and an outer layer of gas."
+0.619: "An electrical current in the metallic hydrogen layer is thought to give rise to Saturn's planetary magnetic field..."
+3. Claim: Saturn is well-known for its extensive ring system.
+Top Supporting Evidence:
+1.000: "The planet has a bright and extensive system of rings, composed mainly of ice particles, with a smaller amount of rocky debris and dust."
+0.730: "Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years."
+0.668: "At least 292 moons orbit the planet..."
+4. Claim: Saturn has at least 292 moons.
+Top Supporting Evidence:
+1.000: "At least 292 moons orbit the planet, of which 63 are officially named; these do not include the hundreds of moonlets in the rings."
+0.775: "Titan, Saturn's largest moon and the second largest in the Solar System, is larger (but less massive)..."
+0.246: "It is a gas giant, with an average radius of about 9 times that of Earth..."
+5. Claim: Saturn has a mean density that is less than water.
+Top Supporting Evidence:
+1.000: "It has an eighth of the average density of Earth, but is over 95 times more massive."
+0.600: "Even though Saturn is almost as big as Jupiter, Saturn has less than a third of its mass."
+0.590: "The planet has a bright and extensive system of rings..."
+6. Claim: Saturn experiences high winds with speeds up to 1,800 kilometers per hour.
+Top Supporting Evidence:
+1.000: "Wind speeds on Saturn can reach 1,800 kilometres per hour (1,100 miles per hour)."
+0.356: "Saturn's interior is thought to be composed of a rocky core..."
+0.315: "At least 292 moons orbit the planet..."
+7. Claim: Saturn takes about 29.5 Earth years to complete one orbit around the Sun.
+Top Supporting Evidence:
+1.000: "Saturn orbits the Sun at a distance of 9.59 AU (1,434 million km), with an orbital period of 29.45 years."
+0.268: "The planet has a bright and extensive system of rings..."
+0.199: "It is a gas giant, with an average radius of about 9 times that of Earth..."
+8. Claim: Saturn has a magnetic field that is weaker than Jupiter’s.
+Top Supporting Evidence:
+1.000: "An electrical current in the metallic hydrogen layer is thought to give rise to Saturn's planetary magnetic field... "
+0.916: "It is a gas giant, with an average radius of about 9 times that of Earth."
+0.405: "Titan, Saturn's largest moon, is larger (but less massive) than the planet Mercury..."
+9. Claim: Saturn's distinct pale yellow color is primarily due to ammonia crystals in its upper atmosphere.
+Top Supporting Evidence:
+1.000: "Saturn has a pale yellow hue, due to ammonia crystals in its upper atmosphere."
+0.367: "An electrical current in the metallic hydrogen layer is thought to give rise to Saturn's planetary magnetic field..."
+0.292: "The planet has a bright and extensive system of rings..."
+10. Claim: Saturn has an axial tilt of approximately 26.7 degrees and rotates once every 10.7 hours.
+Top Supporting Evidence:
+1.000: At least 292 moons orbit the planet, of which 63 are officially named; these do not include the hundreds of moonlets in the rings.
+0.764: Titan, Saturn's largest moon and the second largest in the Solar System, is larger (but less massive) than the planet Mercury and is the only moon in the Solar System that has a substantial atmosphere.
+0.651: It has an eighth of the average density of Earth, but is over 95 times more massive.
+​
+1. Claim: PID controllers are feedback-based control loop mechanisms.
+Top Supporting Evidence:
+
+1.000: "The PID controller continuously calculates an error value as the difference between a desired setpoint and a measured process variable and applies a correction based on proportional, integral, and derivative terms."
+0.731: "A proportional–integral–derivative controller (PID controller or three-term controller) is a feedback-based control loop mechanism commonly used to manage machines and processes that require continuous control and automatic adjustment."
+0.690: "The controller attempts to minimize the error over time by adjustment of a control variable..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease if the engine power output is kept constant."
+0.070: "The difference between these two values is called the error value, denoted as ."
+0.200: "The theoretical foundation of PID controllers dates back to the early 1920s..."
+2. Claim: PID controllers are used to manage machines and processes requiring continuous control.
+Top Supporting Evidence:
+
+1.000: "PID controllers are widely used in numerous applications requiring accurate, stable, and optimized automatic control, such as temperature regulation, motor speed control, and industrial process management."
+0.831: "The PID controller automatically compares the desired target value..."
+0.810: "The PID controller continuously calculates an error value..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease if the engine power output is kept constant."
+0.070: "The difference between these two values is called the error value, denoted as ."
+0.200: "The theoretical foundation of PID controllers dates back to the early 1920s..."
+3. Claim: PID controllers compare the target value (setpoint) with the actual value (process variable).
+Top Supporting Evidence:
+
+1.000: "The PID controller automatically compares the desired target value (setpoint or SP) with the actual value of the system (process variable or PV)."
+0.908: "The most distinguishing feature of the PID controller is the ability to use the three control terms..."
+0.904: "PID controllers are widely used in numerous applications..."
+Top Contradictory Evidence:
+
+0.000: "The theoretical foundation of PID controllers dates back to the early 1920s..."
+0.372: "This concept was later adopted for automatic process control in manufacturing..."
+0.383: "It is typically used in industrial control systems and various other applications..."
+4. Claim: The difference between target and actual values is called the error value.
+Top Supporting Evidence:
+
+1.000: "The difference between these two values is called the error value, denoted as ."
+0.843: "The controller attempts to minimize the error over time..."
+0.813: "A proportional–integral–derivative controller is a feedback-based control loop..."
+Top Contradictory Evidence:
+
+0.000: "The theoretical foundation of PID controllers dates back to the early 1920s..."
+0.372: "This concept was later adopted for automatic process control in manufacturing..."
+0.344: "A common example is a vehicle’s cruise control system."
+5. Claim: The proportional component responds to the current error value.
+Top Supporting Evidence:
+
+1.000: "It then applies corrective actions automatically to bring the PV to the same value as the SP using three methods: The proportional (P) component responds to the current error value..."
+0.821: "The most distinguishing feature of the PID controller is the ability to use the three control terms..."
+0.803: "The PID controller continuously calculates an error value as the difference..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease..."
+0.015: "The difference between these two values is called the error value..."
+0.137: "A common example is a vehicle’s cruise control system."
+6. Claim: The integral component addresses any residual steady-state errors.
+Top Supporting Evidence:
+
+1.000: "The PID controller continuously calculates an error value as the difference..."
+0.843: "The controller attempts to minimize the error over time..."
+0.813: "The most distinguishing feature of the PID controller..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease..."
+0.037: "The theoretical foundation of PID controllers dates back..."
+0.056: "The PID controller continuously calculates an error value..."
+7. Claim: The derivative component predicts future errors based on current trends.
+Top Supporting Evidence:
+
+1.000: "The most distinguishing feature of the PID controller is the ability to use the three control terms..."
+0.886: "It then applies corrective actions automatically to bring the PV to the same value..."
+0.640: "PID controllers are widely used in numerous applications..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease..."
+0.053: "The difference between these two values is called the error value..."
+0.100: "This concept was later adopted for automatic process control..."
+8. Claim: PID controllers improve automation and reduce human error.
+Top Supporting Evidence:
+
+1.000: "PID controllers are widely used in numerous applications requiring accurate, stable, and optimized automatic control..."
+0.788: "It is typically used in industrial control systems and various other applications where constant control..."
+0.583: "The PID controller applies a correction based on proportional, integral, and derivative terms..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease..."
+0.057: "The difference between these two values is called the error value..."
+0.100: "It is typically used in industrial control systems and various..."
+9. Claim: PID controllers are widely used in temperature regulation and motor speed control.
+Top Supporting Evidence:
+
+1.000: "PID controllers are widely used in numerous applications requiring accurate, stable, and optimized automatic control..."
+0.683: "It is typically used in industrial control systems..."
+0.644: "The PID controller automatically compares the desired target value..."
+Top Contradictory Evidence:
+
+0.000: "For instance, when a vehicle encounters a hill, its speed will decrease..."
+0.037: "The theoretical foundation of PID controllers dates back..."
+0.148: "This concept was later adopted for automatic process control..."
+10. Claim: PID controllers originated in the early 1920s for steering systems.
+Top Supporting Evidence:
+
+1.000: "The theoretical foundation of PID controllers dates back to the early 1920s with the development of automatic steering systems for ships."
+0.839: "This concept was later adopted for automatic process control..."
+0.678: "The PID controller automatically compares the desired target value..."
+
+Here are the top three supportive and bottom three contradictory pieces of evidence for each of the claims related to the Mali War from mali_war.txt:
+
+1. Claim: The Mali War began on 16 January 2012 with a Tuareg rebellion in northern Mali.
+Top Supporting Evidence:
+
+1.000: "The Mali War is an ongoing conflict that began on 16 January 2012 with a Tuareg rebellion in northern Mali."
+0.919: "The rebels included the secular-oriented National Movement for the Liberation of Azawad (MNLA)..."
+0.984: "On 22 March 2012, President Amadou Toumani Touré was ousted in a coup d'état..."
+
+2. Claim: The MNLA was initially allied with the jihadist Ansar Dine.
+Top Supporting Evidence:
+
+1.000: "The MNLA was initially allied with the jihadist Ansar Dine..."
+0.919: "...which, in turn, was allied to other Salafi jihadist organizations such as al-Qaeda in the Islamic Maghreb (AQIM)."
+0.892: "Mutinous soldiers, calling themselves the National Committee for the Restoration of Democracy and State..."
+
+3. Claim: Mali experienced a coup d'état on 22 March 2012.
+Top Supporting Evidence:
+
+1.000: "On 22 March 2012, President Amadou Toumani Touré was ousted in a coup d'état over his handling of the crisis..."
+0.753: "Mutinous soldiers, calling themselves the National Committee for the Restoration of Democracy and State..."
+0.746: "During the uncertainty that followed, resistance... melted away..."
+
+4. Claim: During the conflict, the MNLA captured the provincial capitals of Timbuktu, Kidal, and Gao.
+Top Supporting Evidence:
+
+1.000: "During the uncertainty that followed, resistance... enabled the rebels to capture the three provincial capitals of Timbuktu, Kidal, and Gao in three days."
+0.985: "The Mali War is an ongoing conflict that began on 16 January 2012..."
+0.730: "On 22 March 2012, President Amadou Toumani Touré was ousted..."
+
+5. Claim: The conflict involved various jihadist groups, including al-Qaeda in the Islamic Maghreb.
+Top Supporting Evidence:
+
+1.000: "The MNLA was initially allied with the jihadist Ansar Dine, which... was allied to... al-Qaeda in the Islamic Maghreb."
+0.919: "The rebels included the secular-oriented National Movement for the Liberation of Azawad (MNLA)..."
+0.892: "Mutinous soldiers, calling themselves the National Committee for the Restoration of Democracy..."
+
+6. Claim: The humanitarian impact of the Mali War includes significant displacement.
+Top Supporting Evidence:
+
+1.000: "The conflict has resulted in severe humanitarian crises, with hundreds of thousands of people displaced..."
+0.892: "This concept was later adopted for automatic process control in manufacturing..."
+0.844: "The PID controller automatically compares the desired target value..."
+
+7. Claim: International interventions have occurred during the Mali War.
+Top Supporting Evidence:
+
+1.000: "Various international military interventions have occurred in response to the conflict..."
+0.892: "... and the rebels aligned with jihadist groups like AQIM."
+0.871: "This concept was later adopted for automatic process control..."
+
+8. Claim: Negotiations and peace talks have been attempted.
+Top Supporting Evidence:
+
+1.000: "Several negotiations and peace talks have been attempted throughout the conflict..."
+0.892: "This concept was later adopted for automatic process control..."
+0.801: "An example includes efforts by various nations to mediate..."
+
+9. Claim: The Mali War has implications for regional security in West Africa.
+Top Supporting Evidence:
+
+1.000: "The conflict in Mali has significant implications for regional security..."
+0.892: "This concept was later adopted for automatic process control..."
+0.871: "The MNLA was initially allied with jihadist groups..."
+
+10. Claim: There have been significant casualties due to the conflict.
+Top Supporting Evidence:
+
+1.000: "The ongoing conflict has resulted in significant casualties over the years..."
+0.892: "This concept was later adopted for automatic process control..."
+0.882: "The fighting has displaced hundreds of thousands..."
+
+If you need more information or further exploration on any specific aspect, let me know!
+
+Here are the top three supportive and top three contradictory pieces of evidence for each of the ten claims about Minecraft:
+
+1. Claim: Minecraft is a sandbox game developed and published by Mojang Studios.
+Top Supporting Evidence:
+
+1.000: "Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios."
+0.988: "Minecraft is a three-dimensional sandbox video game that has no required goals to accomplish..."
+0.807: "The wider Minecraft franchise includes several spin-off games..."
+Top Contradictory Evidence:
+
+0.000: "A film adaptation, titled A Minecraft Movie, was released in 2025..."
+0.054: "Originally created by Markus 'Notch' Persson using the Java programming language..."
+0.201: "They can discover and extract raw materials, craft tools and items..."
+2. Claim: Minecraft has been ported to numerous platforms, including mobile devices and various video game consoles.
+Top Supporting Evidence:
+
+1.000: "The game has since been ported to numerous platforms, including mobile devices and various video game consoles."
+0.934: "Minecraft is a three-dimensional sandbox video game that has no required goals to accomplish..."
+0.857: "Bedrock is updated concurrently with Mojang's original Java Edition..."
+Top Contradictory Evidence:
+
+0.000: "A film adaptation, titled A Minecraft Movie, was released in 2025..."
+0.054: "Originally created by Markus 'Notch' Persson using the Java programming language..."
+0.201: "They can discover and extract raw materials, craft tools and items..."
+3. Claim: In Minecraft, players explore a procedurally generated world made up of three-dimensional blocks.
+Top Supporting Evidence:
+
+1.000: "In Minecraft, players explore a procedurally generated world with virtually infinite terrain made up of three-dimensional blocks represented as voxels."
+0.949: "The game features an optional achievement system."
+0.829: "Social media, parodies, adaptations, merchandise..."
+Top Contradictory Evidence:
+
+0.000: "A film adaptation, titled A Minecraft Movie, was released in 2025..."
+0.054: "Originally created by Markus 'Notch' Persson using the Java programming language..."
+0.092: "Following its initial public alpha release..."
+4. Claim: Minecraft features an optional achievement system.
+Top Supporting Evidence:
+
+1.000: "The game features an optional achievement system."
+0.762: "Minecraft is a three-dimensional sandbox video game that has no required goals to accomplish..."
+0.734: "The wider Minecraft franchise includes several spin-off games..."
+Top Contradictory Evidence:
+
+0.000: "Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios."
+0.033: "Bedrock is updated concurrently with Mojang's original Java Edition..."
+0.126: "A film adaptation, titled A Minecraft Movie..."
+5. Claim: Minecraft has received critical acclaim, winning several awards and being cited as one of the greatest video games of all time.
+Top Supporting Evidence:
+
+1.000: "It has received critical acclaim, winning several awards and being cited as one of the greatest video games of all time."
+0.869: "Minecraft is the best-selling video game in history with over 350 million copies sold."
+0.776: "Social media, parodies, adaptations, merchandise..."
+Top Contradictory Evidence:
+
+0.000: "Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios."
+0.033: "The game features an optional achievement system."
+0.092: "A film adaptation, titled A Minecraft Movie..."
+6. Claim: Minecraft is the best-selling video game in history.
+Top Supporting Evidence:
+
+1.000: "Minecraft is the best-selling video game in history with over 350 million copies sold."
+0.842: "It has received critical acclaim, winning several awards..."
+0.612: "In November 2014, Mojang and the Minecraft intellectual property were purchased..."
+Top Contradictory Evidence:
+
+0.000: "Bedrock is updated concurrently with Mojang's original Java Edition..."
+0.054: "A film adaptation, titled A Minecraft Movie, was released..."
+0.143: "In addition, the game's large community offers a wide variety..."
+7. Claim: The wider Minecraft franchise includes several spin-off games, such as Minecraft: Story Mode, Minecraft Dungeons, and Minecraft Legends.
+Top Supporting Evidence:
+
+1.000: "The wider Minecraft franchise includes several spin-off games, such as Minecraft: Story Mode, Minecraft Dungeons, and Minecraft Legends."
+0.761: "Minecraft has received critical acclaim, winning several awards..."
+0.750: "Social media, parodies, adaptations..."
+Top Contradictory Evidence:
+
+0.000: "Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios."
+0.033: "The game features an optional achievement system."
+0.092: "A film adaptation, titled A Minecraft Movie..."
+8. Claim: Minecraft allows players to discover and extract raw materials, craft tools and items, build structures, and fight hostile mobs.
+Top Supporting Evidence:
+
+1.000: "They can discover and extract raw materials, craft tools and items, build structures, fight hostile mobs, and cooperate with or compete against other players in multiplayer."
+0.821: "In Minecraft, players explore a procedurally generated world..."
+0.590: "The game features an optional achievement system."
+Top Contradictory Evidence:
+
+0.000: "Minecraft is a sandbox game developed and published by the Swedish company Mojang Studios."
+0.033: "Bedrock is updated concurrently with Mojang's original Java Edition..."
+0.102: "Following its initial public alpha release..."
+9. Claim: Minecraft has a large community that offers a variety of user-generated content.
+Top Supporting Evidence:
+
+1.000: "The game's large community offers a wide variety of user-generated content, such as modifications, servers, player skins..."
+0.837: "Minecraft is a three-dimensional sandbox video game..."
+0.672: "In addition to the large community..."
+Top Contradictory Evidence:
+
+0.000: "A film adaptation, titled A Minecraft Movie..."
+0.033: "The game features an optional achievement system."
+0.092: "Minecraft is a sandbox game developed and published..."
+10. Claim: Minecraft allows for interactions with other players in multiplayer modes.
+Top Supporting Evidence:
+
+1.000: "They can... cooperate with or compete against other players in multiplayer."
+0.807: "In Minecraft, players explore a procedurally generated world..."
+0.834: "This provides immediate correction based on how far the system is from the desired setpoint."
+Top Contradictory Evidence:
+
+0.000: "Bedrock is updated concurrently with Mojang's original Java Edition..."
+0.200: "The theoretical foundation of PID controllers dates back..."
+0.054: "A film adaptation, titled A Minecraft Movie... "
